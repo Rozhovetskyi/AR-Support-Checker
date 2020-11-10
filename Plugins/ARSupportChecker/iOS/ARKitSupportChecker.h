@@ -1,0 +1,1 @@
+﻿extern "C" bool ARKitSupportCheck();
