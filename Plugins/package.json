@@ -1,0 +1,8 @@
+{
+    "name": "com.rozhovetskyi.arsupportchecker",
+    "displayName": "AR Support Checker",
+    "description": "Single-line detection of AR supported (ARCore, ARKit, AR Foundation) devices.",
+    "version": "1.0.0",
+    "license": "MIT",
+    "dependencies": {}
+}
