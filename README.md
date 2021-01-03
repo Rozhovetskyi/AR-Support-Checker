@@ -1,0 +1,2 @@
+# AR-Support-Checker
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/2d3b39414fe549ffb6fd05564cc7ee55)](https://app.codacy.com/gh/Rozhovetskyi/AR-Support-Checker?utm_source=github.com&utm_medium=referral&utm_content=Rozhovetskyi/AR-Support-Checker&utm_campaign=Badge_Grade_Settings)
