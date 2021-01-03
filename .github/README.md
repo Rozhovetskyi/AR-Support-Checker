@@ -6,9 +6,9 @@ Unity plugin for AR supported (ARCore, ARKit, AR Foundation) devices detection.
 
 Add plugin using one of the following ways:
 
-*  Import [ARSupportChecker.package](https://github.com/Rozhovetskyi/ARSupportChecker/blob/main/.github/ARSupportChecker.unitypackage?raw=true) to your project 
-*  Via <i>Package Manager / + / Add package from git URL...</i> `https://github.com/Rozhovetskyi/AR-Support-Checker.git`
-*  Via OpenUPM command: `openupm add com.rozhovetskyi.arsupportchecker`
+*   Import [ARSupportChecker.package](https://github.com/Rozhovetskyi/ARSupportChecker/blob/main/.github/ARSupportChecker.unitypackage?raw=true) to your project 
+*   Via <i>Package Manager / + / Add package from git URL...</i> `https://github.com/Rozhovetskyi/AR-Support-Checker.git`
+*   Via OpenUPM command: `openupm add com.rozhovetskyi.arsupportchecker`
 
 Use `ARSupportChecker.IsSupported()` method to check if ARKit / ARCore  is supported on the device.
 
