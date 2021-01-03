@@ -1,4 +1,4 @@
-# AR Support Checker
+# AR Support Checker [![Codacy Badge](https://app.codacy.com/project/badge/Grade/93de627138984685b1eeb5d1e24a0ae1)](https://www.codacy.com/gh/Rozhovetskyi/AR-Support-Checker/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Rozhovetskyi/AR-Support-Checker&amp;utm_campaign=Badge_Grade)
 
 Unity plugin for AR supported (ARCore, ARKit, AR Foundation) devices detection.
 
