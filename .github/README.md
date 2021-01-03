@@ -4,7 +4,7 @@ Unity plugin for AR supported (ARCore, ARKit, AR Foundation) devices detection.
 
 ## How to use
 
-Add plugin using one of following ways:
+Add plugin using one of the following ways:
 
 *  Import [ARSupportChecker.package](https://github.com/Rozhovetskyi/ARSupportChecker/blob/main/.github/ARSupportChecker.unitypackage?raw=true) to your project 
 *  Via <i>Package Manager / + / Add package from git URL...</i> `https://github.com/Rozhovetskyi/AR-Support-Checker.git`
