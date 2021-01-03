@@ -22,3 +22,6 @@ As ARKit requires iOS 11.0 or later for versions lower than that it returns `fal
 ### Editor
 
 In Unity Editor it always returns `false`.
+
+## License
+MIT (c) Yevhen Rozhovetskyi (<https://github.com/Rozhovetskyi>), see [LICENSE](https://github.com/Rozhovetskyi/AR-Support-Checker/blob/master/LICENSE) file.
