@@ -1,10 +1,10 @@
 # AR Support Checker [![openupm](https://img.shields.io/npm/v/com.rozhovetskyi.arsupportchecker?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/com.rozhovetskyi.arsupportchecker/) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/93de627138984685b1eeb5d1e24a0ae1)](https://www.codacy.com/gh/Rozhovetskyi/AR-Support-Checker/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Rozhovetskyi/AR-Support-Checker&amp;utm_campaign=Badge_Grade)
 
-Unity plugin for AR supported (ARCore, ARKit, AR Foundation) devices detection.
+Unity package for AR supported (ARCore, ARKit, AR Foundation) devices detection.
 
 ## How to use
 
-Add plugin using one of the following ways:
+Add the package using one of the following ways:
 
 *   Import [ARSupportChecker.package](https://github.com/Rozhovetskyi/AR-Support-Checker/releases/download/1.0.0/ARSupportChecker.unitypackage) to your project 
 *   Via <i>Package Manager / + / Add package from git URL...</i> `https://github.com/Rozhovetskyi/AR-Support-Checker.git`
