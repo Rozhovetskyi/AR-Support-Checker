@@ -24,9 +24,9 @@ Uses `ARWorldTrackingConfiguration.isSupported` property to detect if the device
 
 As ARKit requires iOS 11.0 or later for versions lower than that it returns `false`.
 
-### Editor
+### Editor and Other Platforms
 
-In Unity Editor it always returns `false`.
+In Unity Editor and on other platforms it always returns `false`.
 
 ## Example 
 
