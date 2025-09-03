@@ -2,9 +2,6 @@
     "name": "ARSupportChecker.Runtime",
     "references": [],
     "includePlatforms": [
-        "Android",
-        "Editor",
-        "iOS"
     ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

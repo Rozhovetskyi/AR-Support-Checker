@@ -1,4 +1,6 @@
-﻿namespace ARSupportCheck
+﻿using UnityEngine;
+
+namespace ARSupportCheck
 {
     public static class ARSupportChecker
     {
