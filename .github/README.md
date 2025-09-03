@@ -28,5 +28,26 @@ As ARKit requires iOS 11.0 or later for versions lower than that it returns `fal
 
 In Unity Editor it always returns `false`.
 
+## Example 
+
+```
+using ARSupportCheck;
+
+public class Demo : MonoBehaviour
+{
+     void Start()
+     {
+            if (ARSupportChecker.IsSupported() == true)
+            {
+                 Debug.Log("AR is supported on this device");
+            }
+            else
+            {
+                  Debug.Log("AR is not supported on this device");
+            }
+      }
+}
+```
+
 ## License
 MIT (c) Yevhen Rozhovetskyi
