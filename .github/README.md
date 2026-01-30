@@ -43,7 +43,7 @@ public class Demo : MonoBehaviour
             }
             else
             {
-                  Debug.Log("AR is not supported on this device");
+                 Debug.Log("AR is not supported on this device");
             }
       }
 }
